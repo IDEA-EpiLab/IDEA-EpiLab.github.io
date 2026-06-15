@@ -6,11 +6,9 @@ module:
     - path: github.com/adityatelange/hugo-PaperMod
 
 params:
-  defaultTheme: light
+  defaultTheme: dark
 
 menu:
   main:
     - name: Research
       url: /research/
-    - name: Team
-      url: /team/
