@@ -1,9 +1,6 @@
 baseURL: ""
 title: "IDEA Lab"
-
-module:
-  imports:
-    - path: github.com/adityatelange/hugo-PaperMod
+theme: hugo-PaperMod
 
 params:
   defaultTheme: dark
@@ -12,3 +9,4 @@ menu:
   main:
     - name: Research
       url: /research/
+``
