@@ -3,7 +3,7 @@ title: "IDEA Lab"
 theme: hugo-PaperMod
 
 params:
-  defaultTheme: dark
+  defaultTheme: auto
 
 menu:
   main:
