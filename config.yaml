@@ -1,0 +1,13 @@
+baseURL: ""
+title: "IDEA Lab"
+theme: hugo-PaperMod
+
+params:
+  defaultTheme: light
+
+menu:
+  main:
+    - name: Research
+      url: /research/
+    - name: Team
+      url: /team/
