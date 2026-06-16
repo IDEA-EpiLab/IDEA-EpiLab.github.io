@@ -27,11 +27,11 @@ title: "The Anticipatory Epidemiology Lab of the Future"
 
 <img src="/assets/images/landscape.png" alt="IDEA Lab Research Landscape" style="width:100%; max-width:800px; display:block; margin:auto;">
 
----
+
 
 ### What if the first sign of an emerging health threat is not a case in a hospital, but a diffuse signal detected and acted upon before cases arise?
 
----
+
 
 Our research seeks to make this a reality globally, particularly in contexts where disease emergence is most likely. We study how such signals can be detected, interpreted, and connected to anticipate emerging threats in complex and changing systems. For over a century, public health systems have been organised around detecting, confirming, and responding to disease, an approach that has saved countless lives. However, by the time a pattern becomes visible, we may already be well into crisis territory.
 
@@ -47,7 +47,7 @@ Together, this work defines an approach to epidemic and pandemic threat analysis
 
 ### An integrated analytical framework combining complex systems epidemiology and futures methods to characterise, anticipate, and manage epidemic risk in destabilised systems.
 
----
+
 
 We investigate epidemic and pandemic risks in complex socio-ecological systems influenced by climate change, biodiversity loss, political instability, and other global stressors, and develop novel methods across Complex Systems Epidemiology and Futures Thinking to better understand and study these processes.
 
