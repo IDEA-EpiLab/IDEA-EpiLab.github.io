@@ -25,7 +25,7 @@ title: "The Anticipatory Epidemiology Lab of the Future"
 }
 </style>
 
-<img src="/images/landscape.png" alt="IDEA Lab Research Landscape" style="width:100%; max-width:800px; display:block; margin:auto;">
+<img src="/assets/images/landscape.png" alt="IDEA Lab Research Landscape" style="width:100%; max-width:800px; display:block; margin:auto;">
 
 ---
 
