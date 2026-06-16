@@ -19,3 +19,19 @@ menu:
     - name: Team
       url: /team/
       weight: 2
+
+    - name: Deployability
+      url: /deployability/
+      weight: 3
+
+    - name: Publications
+      url: /publications/
+      weight: 4
+
+    - name: Media
+      url: /media/
+      weight: 5
+
+    - name: Join Us
+      url: /join/
+      weight: 6
