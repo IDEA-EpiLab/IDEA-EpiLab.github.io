@@ -14,4 +14,8 @@ menu:
   main:
     - name: Research
       url: /research/
-      
+      weight: 1
+
+    - name: Team
+      url: /team/
+      weight: 2
