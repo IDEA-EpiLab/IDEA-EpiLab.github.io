@@ -2,6 +2,29 @@
 title: "Team"
 ---
 
+<style>
+.cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+  .cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.card {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  background-color: #fff;
+}
+</style>
+
 ## PI: Dr Charlotte Hammer
 
 I am an applied infectious disease epidemiologist, sometimes social scientist, and public health emergency specialist. In January 2025, I joined the Centre for the Study of Existential Risk at the University of Cambridge as an Assistant Professor and founded the IDEA Lab.  
@@ -12,12 +35,6 @@ My applied experience spans national and international public health agencies, p
 
 
 <div class="cards">
-
-<div class="card" style="border: 3px solid red;">
-<h4>Test</h4>
-<p>Test</p>
-</div>
-
 
 <div class="card">
 <h4>Dr Dorien Braam</h4>
