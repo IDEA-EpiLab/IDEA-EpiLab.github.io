@@ -2,6 +2,11 @@ baseURL: ""
 title: "IDEA Lab"
 theme: hugo-PaperMod
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 params:
   defaultTheme: auto
 
