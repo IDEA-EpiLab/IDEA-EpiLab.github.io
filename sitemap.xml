@@ -4,11 +4,11 @@
   <url>
     <loc>/</loc>
   </url><url>
-    <loc>/team/</loc>
-  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/team/</loc>
   </url><url>
     <loc>/research/</loc>
   </url>
