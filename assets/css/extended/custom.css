@@ -1,18 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@500&display=swap');
 
-/* Apply font globally */
+/* Apply sans font globally */
 body,
 button,
 input,
 textarea {
   font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.6;
 }
 
-/* Ensure headings also use it */
+/* Headings (still sans by default) */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
+/* Adjust heading sizes */
 h1 {
   font-size: 1.8rem;
 }
@@ -23,9 +27,6 @@ h2 {
 
 h3 {
   font-size: 1.25rem;
-}
-body {
-  font;  font-size: 0.95rem;
 }
 
 
