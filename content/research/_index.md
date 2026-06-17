@@ -1,5 +1,5 @@
 ---
-title: "The Anticipatory Epidemiology Lab of the Future"
+title: "Our Research"
 ---
 
 <style>
