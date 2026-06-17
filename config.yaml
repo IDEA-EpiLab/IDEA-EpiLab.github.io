@@ -8,6 +8,7 @@ markup:
       unsafe: true
 
 params:
+  defaultTheme: light
   fontFamily: "IBM Plex Sans"
 
   label:
