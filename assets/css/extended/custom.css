@@ -53,3 +53,7 @@ a:hover {
 p {
   margin-bottom: 0.9rem;
 }
+
+.logo a:hover {
+  text-decoration: underline;
+}
