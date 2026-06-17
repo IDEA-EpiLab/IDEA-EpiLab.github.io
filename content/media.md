@@ -1,5 +1,5 @@
 ---
-title: "Media"
+title: ""
 ---
 
 Coming soon.
