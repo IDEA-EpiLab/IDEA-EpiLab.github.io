@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap');
 
-:root {
-  --font-primary: 'IBM Plex Sans', sans-serif;
+/* Apply font globally */
+body,
+button,
+input,
+textarea {
+  font-family: 'IBM Plex Sans', sans-serif;
 }
+
+/* Ensure headings also use it */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
