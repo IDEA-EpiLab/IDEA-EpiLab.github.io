@@ -13,3 +13,15 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
+h1 {
+  font-size: 1.8rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
