@@ -1,5 +1,5 @@
 ---
-title: "Join Us"
+title: ""
 ---
 
 ## Interested in Joining Us?
