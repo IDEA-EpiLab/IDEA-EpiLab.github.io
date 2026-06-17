@@ -8,7 +8,6 @@ markup:
       unsafe: true
 
 params:
-  defaultTheme: auto
   fontFamily: "IBM Plex Sans"
 
 menu:
