@@ -28,3 +28,6 @@ body {
   font;  font-size: 0.95rem;
 }
 
+.header .logo a {
+  font-weight: 500;
+}
