@@ -15,6 +15,14 @@ params:
     icon: "assets/images/icon-2.png"
     iconHeight: 28
 
+  footer: 
+    text: |
+      IDEA Epi Lab  
+      Centre for the Study of Existential Risk
+      University of Cambridge
+      Cambridge, UK  
+      Contact: ch950@cam.ac.uk
+
 menu:
   main:
     - name: Home
